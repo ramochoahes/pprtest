@@ -1,0 +1,17 @@
+#correct {
+    background: rgb(111, 253, 100);
+    padding: 3px 5px;
+    margin: -3px -5px;
+    line-height: 1.7;
+    border-radius: 3px;
+    display:inline-block;
+}
+
+#incorrect {
+    background: rgb(253, 100, 100);
+    padding: 3px 5px;
+    margin: -3px -5px;
+    line-height: 1.7;
+    border-radius: 3px;
+    display:inline-block;
+}

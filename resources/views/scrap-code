@@ -1,0 +1,57 @@
+<script type="text/javascript">
+ var id = 0;
+ id++;
+ var id2 = document.getElementById("output").innerHTML = id;
+ console.log(id2);
+</script>
+<h3 id="output"></h3>
+
+<input type="" name="answer" id="hidden" value="{{$quizzes->answer}}">
+
+
+@if($id==3)
+<button type="submit" class="btn btn-primary" name='chksub'>Submit</button>
+@endif
+<label for="submit-form">Submit</label>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+       $("#myButton").click(function() {
+           $("#myForm").submit();
+       });
+    });
+</script>
+
+
+@for ($id = 0; $id < $res; $id++)
+<!-- counts question iterations -->
+@endfor
+
+
+<input type="submit" style="display:none" id="your-form-submit"/>
+<label for="your-form-submit" role="button" class="btn btn-primary" tabindex="0">Submit</label>
+
+@php
+$t = Input::get('optionsRadios'.$quizzes->id);
+echo($t);
+@endphp
+
+@php
+
+if (is_string('optionsRadios'.$quizzes->id)==true)
+{
+  echo "STRING";
+}
+else
+{
+  echo "INT";
+}
+
+@endphp
+
+&&(Input::get('optionsRadios'.$quizzes->id)!=null)
+
+
+<!--  {{'optionsRadios'.$quizzes->id}}<br>
+{{Input::get('optionsRadios'.$quizzes->id)}}<br>
+<strong>{{$quizzes->answer}}</strong><br> -->
