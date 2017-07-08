@@ -59,7 +59,7 @@
             <li><a href="comp013">Competency 013</a></li>
             <li role="separator" class="divider"></li>
             <li><a href="/">Home</a></li>
-            <li><a href="insertQuizData">Admin Quiz Data</a></li>
+    
           </ul>
         </li>
       </ul>

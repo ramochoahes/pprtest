@@ -5,12 +5,15 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use App\Quiz;
 use Illuminate\Support\Facades\Input;
+use Illuminate\Support\Facades\Log;
+use App\Http\Controllers\Controller;
 
 class QuizController extends Controller
 {
 
   public function indexReturn()
   {
+  
     return view('index');
   }
 

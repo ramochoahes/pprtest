@@ -38,8 +38,10 @@
               <br>
 
               <p>
+                A test should be directly aligned with the learning goals and it should reveal the students points of strengths and weaknesses within that learning objective [B]. There are objective assessments, which does not require the grader to decide the degree of correctness of the answer. An example is a multiple choice exam. These are quantitative assessments because they measure the quantity that were correct or incorrect.  There are also subjective assessments that require the person grading to make informed judgments on the correctness. This can be in the form of an open ended questions, a project, etc. Subjective assessments should be graded with a rubric so that the outcome could be understood. Qualitative assessments assess the quality of something and are subjective assessments naturally. Any assignment that allows flexibility of answer and outcome should be assessed in a qualitative manner. [A][B][C].
               </p>
               <p>
+                The assessments are a way to provide feedback to both the students and the teachers. At the end of a learning cycle comes a summative assessment. Before the summative assessment a teacher and student should have been able to use the more informal formative assessment to redirect and analyze learning. Homework and quizzes are examples of formative assessment. Projects and six weeks tests are examples of summative assessments. Feedback should be used in a positive and specific manner in order to promote learning. [D][E]
               </p>
               <p>
               </p>

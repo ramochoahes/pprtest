@@ -35,3 +35,7 @@ Route::get('comp011', 'QuizController@comp011');
 Route::get('comp012', 'QuizController@comp012');
 
 Route::get('comp013', 'QuizController@comp013');
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');

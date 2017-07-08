@@ -55,3 +55,5 @@ else
 <!--  {{'optionsRadios'.$quizzes->id}}<br>
 {{Input::get('optionsRadios'.$quizzes->id)}}<br>
 <strong>{{$quizzes->answer}}</strong><br> -->
+
+<!--li><a href="insertQuizData">Admin Quiz Data</a></li-->
