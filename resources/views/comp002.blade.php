@@ -37,30 +37,13 @@
               <h4>Key Understandings</h4>
               <br>
               <p>
-                Teachers should recognize the diversity students bring into the classroom and make sure they all feel <strong>included and equal</strong>. Again, all students should feel included and their diversity highlighted. Assignments should have diversity included in their design and not revolve around predominantly one culture or type of person. A classroom teacher should establish a classroom community. This can be done in various ways such as using icebreaker activities so students may learn about each others differences. Resolve conflicts that stem from students diversity (like gender, race, culture) differences in a way that shows people are different not better or worse. All students should be able to do the assignment, even if it means differentiating the instruction to suit special needs. Choose assignments that allow students highlight their strengths and post all students work not only that from homogeneous groups. Allow students to work with all types of students and not isolate themselves into <strong>homogeneous groups</strong>.
-              </p>
+                Teachers should recognize the diversity students bring into the classroom and make sure they all feel included and equal. Again, all students should feel included and their diversity highlighted [A][B]. Allow students to work with all types of students and not isolate themselves into homogeneous groups. Assignments should have diversity included in their design and not revolve around predominantly one culture or ethnicit. A classroom teacher should establish a classroom community that is accepting towards diverse backgrounds. This can be done in various ways such as using icebreaker activities so students may learn about each others differences [C]. Resolve conflicts that stem from students diversity (like gender, race, culture) differences in a way that shows people are different not better or worse. All students should be able to do the assignment, even if it means differentiating the instruction to suit special needs. Choose assignments that allow students highlight their strengths and post all students work not only that from homogeneous groups [E][F][G].              </p>
               <p>
-                Special needs and ELL students should be integrated and <strong>differntiated</strong> using <strong>accommodations</strong> that make the content needed to be learned more accessible without reducing the knowledge, "watering down", content needed and without making it apparent to other students that this is being done. ELL accommodations could include integrating visuals, pairing ELL students with native speakers, hands on activities, vocabulary development, and <a href="http://moramodules.com/ALMMethods.htm" target="_blank">L2</a> acquisition strategies.
-              </p>
+                Special needs and ELL students should be integrated and differntiated using accommodations that make the content needed to be learned more accessible without reducing the knowledge, "watering down", content needed and without making it apparent to other students that this is being done. ELL accommodations could include integrating visuals, pairing ELL students with native speakers, hands on activities, vocabulary development, and L2 acquisition strategies.[G][H][I].              </p>
 
-              <h4> Types of Questions to Expect</h4>
-
-              <p>
-                Q. During a unit of study, a teacher uses books, artwork, and posters from different countries. For the culminating activity the teacher invites members of the local community from diverse backgrounds to talk to the students about their experiences related to the unit. The teacher is trying to
-                <ul> (A) make social connections to the community</ul>
-                <ul> (B) adhere to state standards for curriculum </ul>
-                <ul> (C) introduce different langiages to students </ul>
-                <ul> (D) promote students' cultural awareness </ul>
-              </p>
-
-              <button type="button" id="btn" >See Answer</button>
-              <br><br>
-              <p id ="output002">
-              </p >
-              </div>
 
               <br>
-
+            </div>
           </div>
           <!-- Video -->
           <div role="tabpanel" class="tab-pane fade" id="video">

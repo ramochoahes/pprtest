@@ -38,31 +38,18 @@
               <h4>Key Understandings</h4>
               <br>
               <p>
-              Keeping the education community up to date is important. One should know all relevant TEKS including that of ESL students. Teachers should help <strong>other teachers</strong>. Team teaching, vertical and Horizontal teams, serving on committees, and mentoring help toward this goal. Principals and <strong>school specialists</strong> should be utilized for knowledge regarding the district, state, and other areas.
-              </p>
-              Teachers should continue to self assess their strategies and modify accordingly. Formal appraisals should be used as feedback toward this goal as well. The T-TESS’s (teacher evaluation system) domains and that of the competencies of the PPR (student learning test) are very closely aligned, intentionally. The goal is to <strong>further student learning by improving teaching through professional development</strong>. Teachers should also join organizations within their field such as NCTM (math), IRA (reading), and NSTA (science). These contain useful resources. Regional Education Service centers, such as Region One, provide workshops and other useful information.
-              <p>
+                Keeping the education community up to date is important. One should know all relevant TEKS including that of ESL students. Teachers should help other teachers. Team teaching, vertical and Horizontal teams, serving on committees, and mentoring help toward this goal. Principals and school specialists should be known and utilized for knowledge regarding the district, state, and other areas.[A][B][C]
               </p>
               <p>
+              Participating in school activities is important so that a teacher may participate in the decision making and problem solving within a school district. It also help to create a sense of community and foster positive relationships with the community, students, and other school employees. [D]. A teacher should always be striving to improve and grow through mentors, universities, journals, and service centers. [E]
+              </p>
+              <p>
+              Teachers should continue to self assess their strategies and modify accordingly. Formal appraisals should be used as feedback toward this goal as well. The T-TESS’s (teacher evaluation system) domains and that of the competencies of the PPR (student learning test) are very closely aligned, intentionally. The goal is to further student learning by improving teaching through professional development. Teachers should also join organizations within their field such as NCTM (math), IRA (reading), and NSTA (science). These contain useful resources. Regional Education Service centers, such as Region One, provide workshops and other useful information.[H][I]
               </p>
               <p>
               </p>
 
               <br>
-              <h4> Types of Questions to Expect</h4>
-              <p>
-                Q. An English teacher is interested in incorporating technology into teaching literature and writing. The teacher feels competent in using word processing to enhance students’ writing processes, but he wants to incorporate other types of technology to help students appreciate literature more fully. Which of the following options would most effectively address the teacher’s professional developmental goal?
-                <ul> (A) Requesting funding for additional hardware in the classroom</ul>
-                <ul> (B) Reading professional journal articles on the impact of technology on student learning </ul>
-                <ul> (C) Talking with English colleagues about how they incorporate technology in their teaching </ul>
-                <ul> (D) Working with the campus technology </ul>
-              </p>
-
-              <br>
-              <button type="button" id="btn" >See Answer</button>
-              <br><br>
-              <p id ="output012">
-              </p >
 
           </div>
           <!-- Video -->

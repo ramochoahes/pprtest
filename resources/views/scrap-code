@@ -57,3 +57,92 @@ else
 <strong>{{$quizzes->answer}}</strong><br> -->
 
 <!--li><a href="insertQuizData">Admin Quiz Data</a></li-->
+
+<h4> Types of Questions to Expect</h4>
+
+<p>
+  Q. During a unit of study, a teacher uses books, artwork, and posters from different countries. For the culminating activity the teacher invites members of the local community from diverse backgrounds to talk to the students about their experiences related to the unit. The teacher is trying to
+  <ul> (A) make social connections to the community</ul>
+  <ul> (B) adhere to state standards for curriculum </ul>
+  <ul> (C) introduce different langiages to students </ul>
+  <ul> (D) promote students' cultural awareness </ul>
+</p>
+
+<button type="button" id="btn" >See Answer</button>
+<br><br>
+<p id ="output002">
+</p >
+
+<h4> Types of Questions to Expect</h4>
+
+<p>
+  Q. A social studies teacher is planning a unit for national Hispanic Heritage month. Which of the following activities will best engage kinesthetic learners?
+  <ul> (A) observing performers model dances from different regions of Mexico</ul>
+  <ul> (B) Creating masks like those traditionally used in the Ponce Carnival in Puerto Rico </ul>
+  <ul> (C) Identifying important geographical features on a map of Argentina </ul>
+  <ul> (D) Comparing a monetary system of Columbia to that of the United States </ul>
+</p>
+<button type="button" id="btn" >See Answer</button>
+<br><br>
+<p id ="output003">
+</p >
+
+<h4> Types of Questions to Expect</h4>
+<p>
+  Q. A middle-school history teacher has just finished a lecture on the Bill of Rights. He asks, “Does anyone have any questions?” No one responds. Which of the following strategies would best implement effective communication strategies to promote student learning in this context?
+  <ul> (A) The teacher calls on several students to explain which part of the Bill of Rights they consider most important</ul>
+  <ul> (B) The teacher asks several open-ended questions designed to help students consider the basic content of the Bill of Rights </ul>
+  <ul> (C) The teacher has students reread the chapter on the Bill of Rights </ul>
+  <ul> (D) The teacher administers a quiz asking students to list the topic of each amendment in the Bill of Rights </ul>
+</p>
+<br>
+
+<button type="button" id="btn" >See Answer</button>
+<br><br>
+<p id ="output007">
+</p >
+
+<h4> Types of Questions to Expect</h4>
+<p>
+  Q. A high-school English teacher is preparing a unit on Jack London’s “To Build a Fire,” a story set in the Yukon which ends with the main character freezing to death after refusing to follow advice about the dangers of being in super-cold temperatures. Before the students read the story, the teacher brings a small ice chest filled with ice water and asks for volunteers to submerge their hands in the water and talk about how it feels. This instructional strategy primarily addresses which of the following rationales for actively engaging students in learning?
+  <ul> (A) Connecting two content areas— literature and science</ul>
+  <ul> (B) Activating prior knowledge </ul>
+  <ul> (C) Promoting higher-order thinking skills </ul>
+  <ul> (D) Creating an interactive communicative context for discussing the story </ul>
+</p>
+
+<br>
+<button type="button" id="btn" >See Answer</button>
+<br><br>
+<p id ="output008">
+</p >
+
+<h4> Types of Questions to Expect</h4>
+
+<p>
+  Q. A grade 4 teacher, who teaches in a school where 90 percent of the children are categorized as low SES and/ or ELL, wants to encourage family involvement at a Demo Morning her class is having in one week. Children will demonstrate what they are proudest of having achieved in the past few weeks. Which of the following communication strategies most effectively addresses the teacher’s goal to promote family involvement in this school activity?
+  <ul> (A) The teacher has students create personalized invitations for their families that include a brief “teaser” about what the child will present.</ul>
+  <ul> (B) The teacher purchases a set of blank invitations and has children copy a message about the event onto the card. </ul>
+  <ul> (C) The teacher creates a flyer with all the information but leaves one of the panels blank so that all the children can sign their names. The teacher duplicates the flyer and has each child take one home. </ul>
+  <ul> (D) The teacher calls each family to personally invite them to the Demo Morning. </ul>
+</p>
+
+<button type="button" id="btn" >See Answer</button>
+<br><br>
+<p id ="output011">
+</p >
+
+<h4> Types of Questions to Expect</h4>
+<p>
+  Q. An English teacher is interested in incorporating technology into teaching literature and writing. The teacher feels competent in using word processing to enhance students’ writing processes, but he wants to incorporate other types of technology to help students appreciate literature more fully. Which of the following options would most effectively address the teacher’s professional developmental goal?
+  <ul> (A) Requesting funding for additional hardware in the classroom</ul>
+  <ul> (B) Reading professional journal articles on the impact of technology on student learning </ul>
+  <ul> (C) Talking with English colleagues about how they incorporate technology in their teaching </ul>
+  <ul> (D) Working with the campus technology </ul>
+</p>
+
+<br>
+<button type="button" id="btn" >See Answer</button>
+<br><br>
+<p id ="output012">
+</p >

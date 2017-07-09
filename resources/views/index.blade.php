@@ -9,7 +9,7 @@
     </div>
     <div class="panel-body">
 
-       <center> <img src="/images/front_2.jpg" class="img-fluid" alt="Responsive image"> </center>
+       <center> <img src="/images/front.png" class="img-fluid" alt="Responsive image" width="500" height="500"> </center>
 
     </div>
   </div>

@@ -35,35 +35,20 @@
               <h4>Key Understandings</h4>
               <br>
               <p>
-                Effective teachers know how to align their lessons and assessments to state and local learning goals. Bloom’s Taxonomy has six hierarchical categories used to describe instructional expectations. These categories help identify learning results, learning outcomes, and potential changes in a teachers lesson plans. Teachers can <strong>target instruction</strong> to move students to higher levels of understandng. The Bloom’s categories, move from least to most challenging. Category 1 (Remembering) is a lower level skill than Category 6 (Creating).  TEKS start with verbs that reflect Bloom’s Taxonomy: differentiate, identify, explore, describe, observe, classify, predict, etc. The language of the TEKS is designed to establish the outcomes and goals of the instruction, these are also known as <strong>behavioral outcomes</strong>.
-              </p>
+                Effective teachers know how to align their lessons and assessments to state and local learning goals. Bloom’s Taxonomy has six hierarchical categories used to describe instructional expectations. These categories help identify learning results, learning outcomes, and potential changes in a teachers lesson plans. Teachers can target instruction to move students to higher levels of understanding. The Bloom’s categories, move from least to most challenging. Category 1 (Remembering) is a lower level skill than Category 6 (Creating). TEKS start with verbs that reflect Bloom’s Taxonomy: differentiate, identify, explore, describe, observe, classify, predict, etc. The language of the TEKS is designed to establish the outcomes and goals of the instruction, these are also known as behavioral outcomes. [A].              </p>
               <p>
-                A teacher's lessons should fit within the days designated time period and ideally end with a recap of the days learning. A classroom teacher should be <strong>learner driven</strong>. Learner driven instruction means that the teachers primary focus is the students absorption. In contrast, curriculum driven instruction focuses on whether or not a teacher covered all state mandated objectives.
-                Starter activities should be used to help students relate themselves and their immediate reality with the lesson. It can be as simple as a question or activity to access prior knowledge.
+                A teacher's lessons should fit within the days designated time period and ideally end with a recap of the days learning. A classroom teacher should be learner driven. Learner driven instruction means that the teachers primary focus is the students absorption. In contrast, curriculum driven instruction focuses on whether or not a teacher covered all state mandated objectives. Lessons should be relevant to their lives , be clear, it should be important to the students, and age appropriate. The learning goals should be able to be assessed to provide feedback. A teacher should take time to get to know the students and use their work to provide assignments that are at their current level of understanding and that attract their current interests. All of this must be aligned with the TEKS, and district and local goals. [B] To address these unique needs, a teacher should be able to use various resources to enhance student learning (ie websites, guest speakers, magazines, videos) [E].               </p>
+
+              <p>
+                Summative assessment comes at the end of the lesson cycle to assess learning. It could be test, project, essay, etc. Formative assessment on the other hand is more frequent assessment such as daily grades or questioning during lessons that prepare students for the summative assessment. These assessments are to be used as feedback so that students and teachers  can evaluate their strengths and weaknesses and adjust learning accordingly. Assessments can be formal (ie tests) or informal (ie class work) [C] The state assessment measures the students understanding of the TEKS. A teachers goal is to have students master the TEKS so they may do well on the state exam [D].
               </p>
 
               <p>
-              <strong>Summative assessment</strong> comes at the end of the lesson cycle to assess learning. It could be test, project, essay, etc. Formative assessment on the other hand is more frequent assessment such as daily grades or questioning during lessons that prepare students for the summative assessment.
-              </p>
-
-              <p>
-                "Units", structure lessons around a common theme. For example, a field trip could be used to teach multiple lessons (such as books, essays, activities, videos) that all revolve around that particular trip. These assessments help teacher determine what needs to be taught and how to keep their lessons aligned to the students needs. The end goal is to help the students advance their understanding.
+                Steps in lesson progression should engage students using a hook at the beginning. It should, tap into prior knowledge, use engaging teaching methods, use visuals, be taught in a step by step manner, use formal and informal assessments, have students implement the knowledge using projects, close the lessons, and use a summative assessment method at the end. [E][G][H]
               </p>
 
               <br>
-              <h4> Types of Questions to Expect</h4>
 
-              <p>
-                Q. A social studies teacher is planning a unit for national Hispanic Heritage month. Which of the following activities will best engage kinesthetic learners?
-                <ul> (A) observing performers model dances from different regions of Mexico</ul>
-                <ul> (B) Creating masks like those traditionally used in the Ponce Carnival in Puerto Rico </ul>
-                <ul> (C) Identifying important geographical features on a map of Argentina </ul>
-                <ul> (D) Comparing a monetary system of Columbia to that of the United States </ul>
-              </p>
-              <button type="button" id="btn" >See Answer</button>
-              <br><br>
-              <p id ="output003">
-              </p >
           </div>
 
           <!-- Video goes here -->

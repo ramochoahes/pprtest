@@ -40,33 +40,18 @@
               <h4>Key Understandings</h4>
               <br>
               <p>
-                Communication with parents should be established early in the school year. This communication should start and end <strong>positive</strong>, <strong>personalized</strong>, should be ongoing, should initially inform parents of the classroom rules, should <strong>engage the parent</strong>, and would ideally invite parents to volunteer. A teacher should not pry into a families persons life.
+                Communication with parents should be established early in the school year. Technology such as email, text, blogs, and classroom webpages can be used to enhance communication between parents. This communication should start and end positive, personalized, should be ongoing, should initially inform parents of the classroom rules, should engage the parent, and would ideally invite parents to volunteer. A teacher should not pry into a families persons life however. [A][B]              </p>
+              <p>
+                Care should be taken to communicate positively with families of all backgrounds[C]. Contacting parents is a great opportunity for a teachers to share specific information about the students progress. It can also be used to inform the parents on practices to help the students home environment be conducive to learning and to update the parents on resource the school may offer. [D]
               </p>
               <p>
-                Technology such as email, text, blogs, and classroom webpages can be used to enhance communication between parents.
+                Conferences with can parents should be positive, comfortable, have all relevant materials and should allow parents to suggest methods for addressing the issue at hand. [E][F]              
               </p>
               <p>
-                Contacting parents is a great opportunity for a teachers to share specific information about the student. It can also be used to <strong>inform the parents</strong> on practices to help the students home environment be conducive to learning and to update the parents on resource the school may offer.
-              </p>
-              <p>
-                Conferences with can parents should be positive, comfortable, have all relevant materials and should allow parents to suggest methods for addressing the issue at hand.
               </p>
 
               <br>
-              <h4> Types of Questions to Expect</h4>
 
-              <p>
-                Q. A grade 4 teacher, who teaches in a school where 90 percent of the children are categorized as low SES and/ or ELL, wants to encourage family involvement at a Demo Morning her class is having in one week. Children will demonstrate what they are proudest of having achieved in the past few weeks. Which of the following communication strategies most effectively addresses the teacher’s goal to promote family involvement in this school activity?
-                <ul> (A) The teacher has students create personalized invitations for their families that include a brief “teaser” about what the child will present.</ul>
-                <ul> (B) The teacher purchases a set of blank invitations and has children copy a message about the event onto the card. </ul>
-                <ul> (C) The teacher creates a flyer with all the information but leaves one of the panels blank so that all the children can sign their names. The teacher duplicates the flyer and has each child take one home. </ul>
-                <ul> (D) The teacher calls each family to personally invite them to the Demo Morning. </ul>
-              </p>
-
-              <button type="button" id="btn" >See Answer</button>
-              <br><br>
-              <p id ="output011">
-              </p >
 
           </div>
           <!-- Video -->
