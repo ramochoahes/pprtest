@@ -12,11 +12,13 @@
 */
 use App\Quiz;
 
-Route::get('/', 'QuizController@indexReturn');
+Route::get('/', 'QuizController@comp001');
 
 Route::get('insertQuizData', 'QuizController@insertData');
 Route::post('insertQuizData', 'QuizController@insertData');
 Route::get('verify', 'QuizController@verifyData');
+
+Route::get('comp001', 'QuizController@comp001');
 
 Route::get('comp002', 'QuizController@comp002');
 

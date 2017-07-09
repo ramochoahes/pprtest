@@ -13,7 +13,7 @@ class QuizController extends Controller
 
   public function indexReturn()
   {
-  
+
     return view('index');
   }
 
@@ -49,6 +49,21 @@ class QuizController extends Controller
   public function verifyData()
   {
     return view('verify');
+  }
+
+  public function comp001(Request $request)
+  {
+
+    $correct = "Correct";
+    $wrong = "Incorrect";
+    $q001 = Quiz::where('comp', '=', '001')->get();
+    //dump(Input::get('optionsRadios9'));
+
+    return view('comp001')
+    ->withQ001($q001)
+    ->withCorrect($correct)
+    ->withWrong($wrong);
+
   }
 
   public function comp002(Request $request)
