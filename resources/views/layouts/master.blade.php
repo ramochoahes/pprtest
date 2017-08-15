@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>PPR Test Review</title>
+    <title>PPR Test Review [13 Competencies] </title>
     <!--link rel="stylesheet" type="text/css" href="styles.css"-->
     <link href="/css/ppr.css" type='text/css' rel='stylesheet'>
     <!-- Latest compiled and minified CSS -->
@@ -48,16 +48,16 @@
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Competencies <span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="comp001">Competency 001</a></li>
-            <li><a href="comp002">Competency 002</a></li>
-            <li><a href="comp003">Competency 003</a></li>
-            <li><a href="comp007">Competency 007</a></li>
-            <li><a href="comp008">Competency 008</a></li>
-            <li><a href="comp009">Competency 009</a></li>
-            <li><a href="comp010">Competency 010</a></li>
-            <li><a href="comp011">Competency 011</a></li>
-            <li><a href="comp012">Competency 012</a></li>
-            <li><a href="comp013">Competency 013</a></li>
+            <li><a href="competency001">Competency 001</a></li>
+            <li><a href="competency002">Competency 002</a></li>
+            <li><a href="competency003">Competency 003</a></li>
+            <li><a href="competency007">Competency 007</a></li>
+            <li><a href="competency008">Competency 008</a></li>
+            <li><a href="competency009">Competency 009</a></li>
+            <li><a href="competency010">Competency 010</a></li>
+            <li><a href="competency011">Competency 011</a></li>
+            <li><a href="competency012">Competency 012</a></li>
+            <li><a href="competency013">Competency 013</a></li>
             <li role="separator" class="divider"></li>
             <li><a href="/">Home</a></li>
 

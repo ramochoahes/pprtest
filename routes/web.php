@@ -18,25 +18,25 @@ Route::get('insertQuizData', 'QuizController@insertData');
 Route::post('insertQuizData', 'QuizController@insertData');
 Route::get('verify', 'QuizController@verifyData');
 
-Route::get('comp001', 'QuizController@comp001');
+Route::get('competency001', 'QuizController@comp001');
 
-Route::get('comp002', 'QuizController@comp002');
+Route::get('competency002', 'QuizController@comp002');
 
-Route::get('comp003', 'QuizController@comp003');
+Route::get('competency003', 'QuizController@comp003');
 
-Route::get('comp007', 'QuizController@comp007');
+Route::get('competency007', 'QuizController@comp007');
 
-Route::get('comp008', 'QuizController@comp008');
+Route::get('competency008', 'QuizController@comp008');
 
-Route::get('comp009', 'QuizController@comp009');
+Route::get('competency009', 'QuizController@comp009');
 
-Route::get('comp010', 'QuizController@comp010');
+Route::get('competency010', 'QuizController@comp010');
 
-Route::get('comp011', 'QuizController@comp011');
+Route::get('competency011', 'QuizController@comp011');
 
-Route::get('comp012', 'QuizController@comp012');
+Route::get('competency012', 'QuizController@comp012');
 
-Route::get('comp013', 'QuizController@comp013');
+Route::get('competency013', 'QuizController@comp013');
 
 Auth::routes();
 

@@ -5,7 +5,7 @@
 <div class="container"> <!--keeps tabs in a wrapper-->
   <div class="panel panel-default">
     <div class="panel-heading">
-      <h3 class="panel-title">Compentency 011 -- Family Involvement</h3>
+      <h3 class="panel-title">Competency 007 [Clear Classroom Communication]</h3>
     </div>
 
 
@@ -27,25 +27,21 @@
             <br>
 
               <h4>Objective </h4>
-              <!-- render HTML -->
-              <h3><div id="render"></div></h3>
-              <br>
               <p>
-                The teacher understands the importance of family involvement in children’s education and knows how to interact and communicate effectively with families.
+                The teacher understands and applies principles and strategies for communicating effectively in varied teaching and learning concepts.
               </p>
-
-              <img src="/images/family.jpg" class="img-rounded" alt="Cinque Terre" width="304" height="236">
+              <img src="/images/discuss.jpg" class="img-rounded" alt="Cinque Terre" width="304" height="236">
 
               <br>
+
               <h4>Key Understandings</h4>
               <br>
               <p>
-                Communication with parents should be established early in the school year. Technology such as email, text, blogs, and classroom webpages can be used to enhance communication between parents. This communication should start and end positive, personalized, should be ongoing, should initially inform parents of the classroom rules, should engage the parent, and would ideally invite parents to volunteer. A teacher should not pry into a families persons life however. [A][B]              </p>
-              <p>
-                Care should be taken to communicate positively with families of all backgrounds[C]. Contacting parents is a great opportunity for a teachers to share specific information about the students progress. It can also be used to inform the parents on practices to help the students home environment be conducive to learning and to update the parents on resource the school may offer. [D]
+                In order for communication to be clear important information should be repeated and the information should be chunked into manageable bits. Time should be allocated to asking questions and a teacher should anticipate many of these questions and misunderstandings in advance. Teaching should be accurate, meaning it should select terms that are factually correct and that are targeted towards your audiences unique background, age, and interests [A]. A teacher should be organized and easy to follow. A teacher must be aware of the audience and its tendency to lose interest. To keep students engaged a teacher can use visuals, ask questions, change the speed in which you speak, encourage class discussions, speak enthusiastically, walk around the classroom, tap into prior knowledge and experiences and point out when a piece of knowledge is especially important. Communication should be extended via technology [C] through such media such as blogs, email, computers, social media, etc.              </p>
               </p>
               <p>
-                Conferences with can parents should be positive, comfortable, have all relevant materials and should allow parents to suggest methods for addressing the issue at hand. [E][F]              
+                Skilled questioning and discussions [B] can be used to engage student in new content, can use blooms taxonomy to foster higher order thinking [B], assess student knowledge and progress, and so students can feel invested and engaged in the conversation. The environment should promote questions and discussions and students should feel safe and even inclined to ask questions and start a discussion. Class discussions help students learn how to communicate effectively [D] and stay engaged in learning.              </p>
+              <p>
               </p>
               <p>
               </p>
@@ -58,26 +54,27 @@
           <div role="tabpanel" class="tab-pane fade" id="video">
             <!-- 16:9 aspect ratio -->
             <div class="embed-responsive embed-responsive-16by9">
-              <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/nOhZ6U5yaXA"></iframe>
+              <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/mG7fXp5BmOE?ecver=1"></iframe>
             </div>
           </div>
 
           <!-- Map -->
           <div role="tabpanel" class="tab-pane fade" id="map">
-            <img src="/images/011img.png" class="img-responsive" alt="Cinque Terre">
+            <img src="/images/007img.png" class="img-responsive" alt="Cinque Terre">
+
           </div>
 
           <!-- Questions -->
 
             <div role="tabpanel" class="tab-pane fade" id="questions">
               <!--theis returns the function in the onsubmit quotes with the object "this" returned with the form data-->
-              <form method="get" name="quiz" action="comp011" id="myForm" >
+              <form method="get" name="quiz" action="comp007" id="myForm" >
                 <br>
                 @php
-                $res = count($q011);
+                $res = count($q007);
                 @endphp
 
-                @foreach($q011 as $quizzes)
+                @foreach($q007 as $quizzes)
 
                  {{$quizzes->id}}. {{$quizzes->question}}
                   <br>
@@ -124,8 +121,7 @@
                 @endforeach
                 <button type="submit" class="btn btn-primary">Submit</button>
               </form>
-
-              </div>
+            </div>
           <!-- Animation goes here -->
 
         </div>

@@ -59,7 +59,7 @@ class QuizController extends Controller
     $q001 = Quiz::where('comp', '=', '001')->get();
     //dump(Input::get('optionsRadios9'));
 
-    return view('comp001')
+    return view('competency001')
     ->withQ001($q001)
     ->withCorrect($correct)
     ->withWrong($wrong);
@@ -74,7 +74,7 @@ class QuizController extends Controller
     $q002 = Quiz::where('comp', '=', '002')->get();
     //dump(Input::get('optionsRadios9'));
 
-    return view('comp002')
+    return view('competency002')
     ->withQ002($q002)
     ->withCorrect($correct)
     ->withWrong($wrong);
@@ -89,7 +89,7 @@ class QuizController extends Controller
     $q003 = Quiz::where('comp', '=', '003')->get();
     //dump(Input::get('optionsRadios9'));
 
-    return view('comp003')
+    return view('competency003')
     ->withQ003($q003)
     ->withCorrect($correct)
     ->withWrong($wrong);
@@ -104,7 +104,7 @@ class QuizController extends Controller
     $q007 = Quiz::where('comp', '=', '007')->get();
     //dump(Input::get('optionsRadios9'));
 
-    return view('comp007')
+    return view('competency007')
     ->withQ007($q007)
     ->withCorrect($correct)
     ->withWrong($wrong);
@@ -119,7 +119,7 @@ class QuizController extends Controller
     $q008 = Quiz::where('comp', '=', '008')->get();
     //dump(Input::get('optionsRadios9'));
 
-    return view('comp008')
+    return view('competency008')
     ->withQ008($q008)
     ->withCorrect($correct)
     ->withWrong($wrong);
@@ -134,7 +134,7 @@ class QuizController extends Controller
     $q009 = Quiz::where('comp', '=', '009')->get();
     //dump(Input::get('optionsRadios9'));
 
-    return view('comp009')
+    return view('competency009')
     ->withQ009($q009)
     ->withCorrect($correct)
     ->withWrong($wrong);
@@ -149,7 +149,7 @@ class QuizController extends Controller
     $q010 = Quiz::where('comp', '=', '010')->get();
     //dump(Input::get('optionsRadios9'));
 
-    return view('comp010')
+    return view('competency010')
     ->withQ010($q010)
     ->withCorrect($correct)
     ->withWrong($wrong);
@@ -164,7 +164,7 @@ class QuizController extends Controller
     $q011 = Quiz::where('comp', '=', '011')->get();
     //dump(Input::get('optionsRadios9'));
 
-    return view('comp011')
+    return view('competency011')
     ->withQ011($q011)
     ->withCorrect($correct)
     ->withWrong($wrong);
@@ -179,7 +179,7 @@ class QuizController extends Controller
     $q012 = Quiz::where('comp', '=', '012')->get();
     //dump(Input::get('optionsRadios9'));
 
-    return view('comp012')
+    return view('competency012')
     ->withQ012($q012)
     ->withCorrect($correct)
     ->withWrong($wrong);
@@ -194,7 +194,7 @@ class QuizController extends Controller
     $q013 = Quiz::where('comp', '=', '013')->get();
     //dump(Input::get('optionsRadios9'));
 
-    return view('comp013')
+    return view('competency013')
     ->withQ013($q013)
     ->withCorrect($correct)
     ->withWrong($wrong);

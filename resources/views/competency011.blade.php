@@ -5,7 +5,7 @@
 <div class="container"> <!--keeps tabs in a wrapper-->
   <div class="panel panel-default">
     <div class="panel-heading">
-      <h3 class="panel-title">Compentency 009 -- Teaching with Technology</h3>
+      <h3 class="panel-title">Competency 011 [Family Involvement]</h3>
     </div>
 
 
@@ -27,25 +27,25 @@
             <br>
 
               <h4>Objective </h4>
+              <!-- render HTML -->
+              <h3><div id="render"></div></h3>
+              <br>
               <p>
-                The teacher incorporates the effective use of technology to plan, organize, deliver, and evaluate instruction for all students.
+                The teacher understands the importance of family involvement in children’s education and knows how to interact and communicate effectively with families.
               </p>
 
-              <img src="/images/technology.jpg" class="img-rounded" alt="Cinque Terre" width="304" height="236">
+              <img src="/images/family.jpg" class="img-rounded" alt="Cinque Terre" width="304" height="236">
 
               <br>
-
               <h4>Key Understandings</h4>
               <br>
-
               <p>
-                A teacher should understand basic technology concepts such as hardware, software, how to use devices (speakers, etc), and networks (linked computers) [A]. The teacher also knows how to use technology safely and legally [B]. In the school system not all students have equal access to technology outside the classroom. A teacher should make the necessary accommodations to ensure all students have an equal opportunity to complete the assignment [H]. In the classroom the students should be familiar with technology. Students should be able to research, collaborate, create original works using multimedia applications, checking for accuracy, know legal requirements, and understand basic technological concepts. The TEKS Technology Application standards per grade level should be understood [C][D][E][F][G]. 
+                Communication with parents should be established early in the school year. Technology such as email, text, blogs, and classroom webpages can be used to enhance communication between parents. This communication should start and end positive, personalized, should be ongoing, should initially inform parents of the classroom rules, should engage the parent, and would ideally invite parents to volunteer. A teacher should not pry into a families persons life however. [A][B]              </p>
+              <p>
+                Care should be taken to communicate positively with families of all backgrounds[C]. Contacting parents is a great opportunity for a teachers to share specific information about the students progress. It can also be used to inform the parents on practices to help the students home environment be conducive to learning and to update the parents on resource the school may offer. [D]
               </p>
               <p>
-              </p>
-              <p>
-              </p>
-              <p>
+                Conferences with can parents should be positive, comfortable, have all relevant materials and should allow parents to suggest methods for addressing the issue at hand. [E][F]
               </p>
               <p>
               </p>
@@ -58,27 +58,26 @@
           <div role="tabpanel" class="tab-pane fade" id="video">
             <!-- 16:9 aspect ratio -->
             <div class="embed-responsive embed-responsive-16by9">
-              <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/mG7fXp5BmOE?ecver=1"></iframe>
+              <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/nOhZ6U5yaXA"></iframe>
             </div>
           </div>
 
           <!-- Map -->
           <div role="tabpanel" class="tab-pane fade" id="map">
-            <img src="/images/009img.png" class="img-responsive" alt="Cinque Terre">
-            <img src="/images/009img_2.png" class="img-responsive" alt="Cinque Terre">
+            <img src="/images/011img.png" class="img-responsive" alt="Cinque Terre">
           </div>
 
           <!-- Questions -->
 
             <div role="tabpanel" class="tab-pane fade" id="questions">
               <!--theis returns the function in the onsubmit quotes with the object "this" returned with the form data-->
-              <form method="get" name="quiz" action="comp009" id="myForm" >
+              <form method="get" name="quiz" action="comp011" id="myForm" >
                 <br>
                 @php
-                $res = count($q009);
+                $res = count($q011);
                 @endphp
 
-                @foreach($q009 as $quizzes)
+                @foreach($q011 as $quizzes)
 
                  {{$quizzes->id}}. {{$quizzes->question}}
                   <br>
@@ -125,8 +124,10 @@
                 @endforeach
                 <button type="submit" class="btn btn-primary">Submit</button>
               </form>
-        </div>
+
+              </div>
           <!-- Animation goes here -->
+
         </div>
       </div>
   </div>

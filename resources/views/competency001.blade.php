@@ -5,7 +5,7 @@
 <div class="container"> <!--keeps tabs in a wrapper-->
   <div class="panel panel-default">
     <div class="panel-heading">
-      <h3 class="panel-title">Compentency 001 -- Human Development</h3>
+      <h3 class="panel-title">Competency 001 [Human Development]</h3>
     </div>
     <div class="panel-body">
 
@@ -91,7 +91,7 @@
 
           </div>
             <div role="tabpanel" class="tab-pane fade" id="questions">
-              <form method="get" name="quiz" action="comp001" id="myForm" >
+              <form method="get" name="quiz" action="competency001" id="myForm" >
                 <br>
                 @php
                 $res = count($q001);

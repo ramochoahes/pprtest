@@ -5,7 +5,7 @@
 <div class="container"> <!--keeps tabs in a wrapper-->
   <div class="panel panel-default">
     <div class="panel-heading">
-      <h3 class="panel-title">Compentency 003 -- Designing Instruction</h3>
+      <h3 class="panel-title">Competency 003 [Designing Instruction]</h3>
     </div>
     <div class="panel-body">
 

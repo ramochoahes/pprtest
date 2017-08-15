@@ -5,7 +5,7 @@
 <div class="container"> <!--keeps tabs in a wrapper-->
   <div class="panel panel-default">
     <div class="panel-heading">
-      <h3 class="panel-title">Compentency 013 -- Legal and Ethical Requirements</h3>
+      <h3 class="panel-title">Competency 008 [Engaging Instruction]</h3>
     </div>
 
 
@@ -28,30 +28,23 @@
 
               <h4>Objective </h4>
               <p>
-                The teacher understands and adheres to legal and ethical requirements for educators and is knowledgeable of the structure of education in Texas.
+                The teacher provides appropriate instruction that actively engages students in the learning process.
               </p>
-              <img src="/images/legal.jpg" class="img-rounded" alt="Cinque Terre" width="304" height="236">
-
+              <img src="/images/engage.jpg" class="img-rounded" alt="Cinque Terre" width="304" height="236">
               <br>
 
               <h4>Key Understandings</h4>
               <br>
 
               <p>
-                Teachers must know the legal requirements that pertain to educators. No Child Left Behind (NCLB) was reauthorized in 2001. It holds schools and teachers accountable for the academic progress of all students. It put pressure on the schools to close the achievement gaps of all students especially ELLs, special education students, and students who are poor or minorities. The Texas Education Code requires that schools have a code of conduct and have conditions for student removal from a classroom, campus, etc. This code has many rules that include whether or not a school board may charge fees for textbooks. The Family Educational Rights and Privacy Act (FERPA) laws protect the privacy of students educational records. This act gives parents the right to request and review their child's records, even if divorced. It also gives schools the right for schools to share these records. The Individuals with Disabilities Act (IDEA) law assures that students with disabilities are given appropriate public education and tailored to their individual needs and that that they have the same opportunities as those students without disabilities. Teachers are also required to report cases of suspected abuse or neglect within 48 hours to the CPS. [A]
-              </p>
+                Learning content should be aligned to the appropriate level Blooms Taxonomy for the level the students are on and aligned to the state learning objectives target. Blooms Taxonomy should also be taken into consideration when using questions to engage students. Higher levels that promote critical thing are best to keep students engaged. Students should be encouraged to engage in class discussions and to ask questions. Engage them with discussions on recents and controversial issues. Accessing a students prior knowledge and familiar scenarios is vital in keeping students engaged. Connecting the information presented to things they’re already interested in or know about would be highly beneficial to student engagement. [A]              </p>
               <p>
-                A teacher and students must know and adhere to legal and ethical requirements in the use of technology. Copyright, <a href="http://www.xavier.edu/library/about/documents/copyright_9-23-08.pdf" target="_blank">Acceptable use (aka: fair-use)</a>, creative commons, etc. laws must be understood and implemented. The information acquired should be legal and sources should be cited where necessary. Online behavior etiquette and ethics should be followed. Students and teachers should understand and practice online <a href="http://tea.texas.gov/Academics/Learning_Support_and_Programs/Technology_Resources/Internet_Safety/" target="_blank">internet safety</a> and security practices. [B]
-              </p>
+                If students lose interest a teacher can use more kinesthetic activities to keep them engaged. By creating a classroom environment that promotes diversity, and hold students accountable for learning can go a long way. To motivate students a teacher should have the learner in mind when crafting lessons. The teachers should know the students so that they may create assignments that they’re interested in. This may mean giving them options on the assignments. [B]               </p>
               <p>
-                A teacher should follow <a href="http://texreg.sos.state.tx.us/public/readtac$ext.ViewTAC?tac_view=4&ti=19&pt=7&ch=247&rl=Y" target="_blank">ethical guidelines</a> as outlined by the Texas Administrative Code [C]. A teacher keeps accurate records in students course work, attendance, scores, participation, and overall learning status [D]. A teacher should know the importance of state and district assessments and prepare students for it using your knowledge of the structure of the education system [E][F]. A teacher should publicly support, advocate, students and the profession [G].
-              </p>
+                To promote interest a teacher should use use opening engage activities that activate prior knowledge and the learners specific interests. A teacher should also try to engage using scaffolding and pacing so that they can work through and process the problem, play, making real world connections such as current events or personal stories, and trying various lessons with various delivery types. Students should feel they’re making progress and succeeding at their efforts using these techniques. [E][F][G] The needs of ELL students should be met so that they may feel engaged as well. A teacher should address their unique backgrounds and learning requirements in the lessons. [H][I][J]              </p>
               <p>
               </p>
               <p>
-
-
-
               </p>
 
               <br>
@@ -68,20 +61,21 @@
 
           <!-- Map -->
           <div role="tabpanel" class="tab-pane fade" id="map">
-            <img src="/images/013img.png" class="img-responsive" alt="Cinque Terre">
+            <img src="/images/008img.png" class="img-responsive" alt="Cinque Terre">
+            <img src="/images/008img_2.png" class="img-responsive" alt="Cinque Terre">
           </div>
 
           <!-- Questions -->
 
             <div role="tabpanel" class="tab-pane fade" id="questions">
               <!--theis returns the function in the onsubmit quotes with the object "this" returned with the form data-->
-              <form method="get" name="quiz" action="comp013" id="myForm" >
+              <form method="get" name="quiz" action="comp008" id="myForm" >
                 <br>
                 @php
-                $res = count($q013);
+                $res = count($q008);
                 @endphp
 
-                @foreach($q013 as $quizzes)
+                @foreach($q008 as $quizzes)
 
                  {{$quizzes->id}}. {{$quizzes->question}}
                   <br>
